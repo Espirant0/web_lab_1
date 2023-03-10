@@ -358,7 +358,7 @@ $values = range(1,26);
 $array15 = array_combine($keys, $values);
 foreach($keys as $i)
 {
-    echo "array15[$i] = ", $arr[$i], "\t";
+    echo "array15[$i] = ", $array15[$i], "\t";
 }
 echo "\n";
 
