@@ -15,7 +15,7 @@ echo "\nYour order is: $very_bad_unclear_name.";
 $var1 = 35;
 echo "\nvar1 = $var1\n";
 
-$v2 = 13.53;
+$var2 = 13.53;
 echo "var2 = $var2\n";
 
 echo 10+2,"\n";
