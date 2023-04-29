@@ -7,7 +7,7 @@ function Database()
     {
         $dbHost = option('localhost');
         $dbUser = option('espiranto');
-        $dbPassword = option('123');
+        $dbPassword = option('qwert12345');
         $dbName = option('web');
         $database = mysqli_init();
 
